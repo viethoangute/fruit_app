@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1064043372448",
+    "project_id": "trainingexample-f3dec",
+    "storage_bucket": "trainingexample-f3dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064043372448:android:117677a41d365c950dcec5",
+        "android_client_info": {
+          "package_name": "com.horizon.training_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064043372448-47mi0d8qk6ff1e145fvscp1vnab1br23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLUNL3Ih6EkJgfJ4D67i-M-Kx3FdxkcnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064043372448-47mi0d8qk6ff1e145fvscp1vnab1br23.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064043372448-qo06iqmg1c0v8vnpud0n0cba7q0dquua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.horizon.trainingExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
